@@ -1,2 +1,2 @@
-# CS744
-Threading and Synchronization
+# CS744 - Malloc
+Implemented a memory manager.
