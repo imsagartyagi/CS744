@@ -1,2 +1,2 @@
-# CS744Assignment2
+# CS744
 Threading and Synchronization
